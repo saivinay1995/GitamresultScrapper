@@ -1,6 +1,6 @@
 # GitamresultScrapper
 
-This program will Scrap the results of all the Gitam studens and Save it 
+This program will Scrap the results of all the Gitam students and Save it 
 
 in a CSV file
 
